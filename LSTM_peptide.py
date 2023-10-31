@@ -7,40 +7,9 @@ import time
 
 # Sample sequences (you can replace this with your dataset)
 sequences = [
-
+    
     "NQPVESDES",
-    "PDPQEVDDP",
-    "PLPSEQCYQ",
-    "HSPIECTEL",
-    "HGPEENEYK",
-    "ESPGENSEQ",
-    "NVPVETTDE",
-    "QTPGEVVDA",
-    "NEPQEHEEG",
-    "RRPAERQYV",
-    "QEPEEMSWP",
-    "YSPEEELEP",
-    "SSPEEEEEA",
-    "SEPVETTDY",
-    "SSPTEMDEN",
-    "QGPEESDEF",
-    "PSPQENSYV",
-    "KIPTEDEYT",
-    "QMPTEDEYM",
-    "QEPQEINFP",
-    "KRPDEVPDD",
-    "NTPVEDDEM",
-    "NTPEETDDV",
-    "QEPLEVGEN",
-    "NTPGEDHEP",
-    "QDPQEMEDY",
-    "LLPTENGEG",
-    "SEPLEVGEN",
-    "NPPGEDCEP",
-    "PSPQENSYM",
-    "NQPVESDES",
-    "QGPEESDEF"
-    # ... (your sequences here)
+        # ... (your sequences here)
 ]
 
 # Tokenize input sequences
